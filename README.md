@@ -1,4 +1,5 @@
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/) 
+Dona for scientific analusis[![Create a Slack Account with 
+us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/) 
  [![Slack Status](https://img.shields.io/badge/Slack_Channel-swc--r--gapminder-E01563.svg)](https://swcarpentry.slack.com/messages/C9Y0M3YKG) 
 
 R for Reproducible Scientific Analysis
@@ -42,3 +43,4 @@ Maintainers:
 [oliver_jeffrey]: https://software-carpentry.org/team/#oliver_jeffrey
 [wright_tom]: https://software-carpentry.org/team/#wright_thomas
 [zimmerman_naupaka]: https://software-carpentry.org/team/#zimmerman_naupaka
+
